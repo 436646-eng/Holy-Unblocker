@@ -3,3 +3,4 @@
 tor &
 
 exec node backend.js
+run
